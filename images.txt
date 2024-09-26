@@ -1,9 +1,3 @@
-jvs-document-mgr
-jvs-knowledge-ui
-jvs-knowledge-api-ui
-jvs-modules-im-mgr
 kkfile
 trwebocr
 ot-server
-jvs-teamwork-ultimate
-jvs-teamwork-ui
