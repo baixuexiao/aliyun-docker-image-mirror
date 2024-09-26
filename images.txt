@@ -1,5 +1,9 @@
-nginx
-mysql:8.0.37
-redis:6.2.14
-halohub/halo:2.18
-amuguelove/weixin-md:1.0.0
+jvs-document-mgr
+jvs-knowledge-ui
+jvs-knowledge-api-ui
+jvs-modules-im-mgr
+kkfile
+trwebocr
+ot-server
+jvs-teamwork-ultimate
+jvs-teamwork-ui
